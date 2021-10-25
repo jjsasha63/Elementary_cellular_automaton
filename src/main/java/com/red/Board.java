@@ -1,4 +1,4 @@
-package com.red.prr1;
+package com.red;
 
 import javafx.geometry.Point2D;
 import javafx.scene.canvas.Canvas;

@@ -1,4 +1,4 @@
-package com.red.prr1;
+package com.red;
 
 
 public class Simulation {

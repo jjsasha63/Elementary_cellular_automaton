@@ -65,7 +65,7 @@
                         <!-- Default configuration for running with: mvn clean javafx:run -->
                         <id>default-cli</id>
                         <configuration>
-                            <mainClass>com.example.prr1/com.red.prr1.App</mainClass>
+                            <mainClass>com.example.prr1/com.red.App</mainClass>
                         </configuration>
                     </execution>
                 </executions>

@@ -1,8 +1,7 @@
-package com.red.prr1;
+package com.red;
 
 import javafx.application.Application;
 import javafx.scene.Scene;
-import javafx.scene.control.Label;
 import javafx.stage.Stage;
 
 import java.io.IOException;

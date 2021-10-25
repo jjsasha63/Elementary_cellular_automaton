@@ -3,6 +3,6 @@ module com.example.prr1 {
     requires javafx.fxml;
 
 
-    opens com.red.prr1 to javafx.fxml;
-    exports com.red.prr1;
+    opens com.red to javafx.fxml;
+    exports com.red;
 }
